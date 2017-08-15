@@ -1,0 +1,6 @@
+[submodule "delrepo1"]
+	path = delrepo1
+	url = https://github.com/HAK-CODE/delrepo1.git
+[submodule "delrepo2"]
+	path = delrepo2
+	url = https://github.com/HAK-CODE/delrepo2.git
